@@ -22,7 +22,7 @@ This is a guide to installing and usage of discord. This guide will also run you
 5. You then create the name, region, and logo of the server. The name and logo can be changed later.
 ![Discord's server settings start][set]
 6. You are then given a link, you can set it to be infinite if you'd like. Anyone else with discord who click's this link will be added onto your server.
-![Invite message](imgs/inv.png)
+![Invite message](https://raw.githubusercontent.com/dart737/discord-markdown/master/imgs/sign.PNG)
 
 ## Additional Information
 Of course, this is just the purest basics of starting the server and inviting others. If you're wanting a server for the long term or for a group of people other than those you absolutely trust, you'll need to manage roles and potentially add some plugins if you'd like.
