@@ -14,6 +14,7 @@ This is a guide to installing and usage of discord. This guide will also run you
 1. Download discord from [their website.](https://discordapp.com/)
 ![Discord's website image](https://raw.githubusercontent.com/dart737/discord-markdown/master/imgs/dsdl.PNG)
 2. Discord will then install, all that's needed is to wait.
+
 ![Discord while installing](https://raw.githubusercontent.com/dart737/discord-markdown/master/imgs/install.PNG)
 3. Then you'll create an account and log in.
 ![Discord sign up page](https://raw.githubusercontent.com/dart737/discord-markdown/master/imgs/sign.PNG)
